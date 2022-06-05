@@ -23,10 +23,4 @@ The Moviepedia
 * HTML&CSS
 * [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction)
 
-### A sneak peek
-<img src="images/four.png" width="100%">
-<img src="images/five.png" width="100%">
-<img src="images/three.png" width="100%">
-<img src="images/two.png" width="100%">
-<img src="images/one.png" width="40%">
-<img src="images/six.png" width="100%">
+
