@@ -1,0 +1,49 @@
+1. Authentication
+2. episode details
+3. toggle dark mode 
+
+4. try it on the image add a small tag to the item to differentiate b/w movie and tv show
+5. language is undefined on the details page 
+
+6. More features 
+      - trending - carousel on home page for trending 
+
+
+
+Configurations - 
+    "backdrop_sizes": [
+      "w300",
+      "w780",
+      "w1280",
+      "original"
+    ],
+    "logo_sizes": [
+      "w45",
+      "w92",
+      "w154",
+      "w185",
+      "w300",
+      "w500",
+      "original"
+    ],
+    "poster_sizes": [
+      "w92",
+      "w154",
+      "w185",
+      "w342",
+      "w500",
+      "w780",
+      "original"
+    ],
+    "profile_sizes": [
+      "w45",
+      "w185",
+      "h632",
+      "original"
+    ],
+    "still_sizes": [
+      "w92",
+      "w185",
+      "w300",
+      "original"
+    ]
