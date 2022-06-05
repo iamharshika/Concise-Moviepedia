@@ -1,9 +1,6 @@
 # Concise
 The Moviepedia
 
-### Live at
-[Concise](https://harshjoeyit.github.io/Concise)
-
 ### How to run?
 * Clone the Repository.
 * open `index.html` in a browser, and it's done.
